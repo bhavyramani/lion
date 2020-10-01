@@ -49,7 +49,7 @@ Then type all following command :-
 
 `$ git pull`
 
-`inspired from osi.ig`
+
 
 ---
 
