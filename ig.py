@@ -22,5 +22,5 @@ if args['postscrap']:
 
 if args['savedata']:
 	ig.save_data()
-extra.write(f"{cy}  Follow me on instagram...")
+extra.write(f"\n{gr}[~]{cy}  Follow me on instagram...")
 os.system("xdg-open https://instagram.com/bhavy_patel_1")
