@@ -61,6 +61,6 @@ Then type all following command :-
     
   </a>
   <a href="https://instagram.com/bhavy_patel_1">
-    <img src="http://tinyurl.com/y6zgceas" width="40" height="40">
+    <img src="https://user-images.githubusercontent.com/69421006/99093041-fb685280-25f7-11eb-84e1-8c5cdb61956c.png" width="40" height="40">
     </a>
 </p>
