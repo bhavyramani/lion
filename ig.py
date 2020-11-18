@@ -1,4 +1,4 @@
-import os, sys
+import os, sys, webbrowser
 sys.path.append(os.getcwd()+"/api.py/")
 import argparse
 from api import *
@@ -23,4 +23,4 @@ if args['postscrap']:
 if args['savedata']:
 	ig.save_data()
 extra.write(f"\n{gr}[~]{cy}  Follow me on instagram...")
-os.system("xdg-open https://instagram.com/bhavy_patel_1")
+webbrowser.open("https://instagram.com/bhavy_patel_1")
