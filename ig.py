@@ -23,4 +23,4 @@ if args['postscrap']:
 if args['savedata']:
 	ig.save_data()
 extra.write(f"\n{gr}[~]{cy}  Follow me on instagram...")
-webbrowser.open("https://instagram.com/bhavy_patel_1")
+os.system("termux-open https://github.com/bhavy_patel_1")
