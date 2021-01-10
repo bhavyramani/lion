@@ -21,6 +21,8 @@ Then type all following command :-
 
 `$ git clone https://github.com/bhavyramani/lion.git && cd lion`
 
+`$ pip install -r requirements.txt`
+
 `$ chmod +x method.sh && ./method.sh`
 
 ## • Usage
